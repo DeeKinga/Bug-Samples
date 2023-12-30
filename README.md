@@ -4,7 +4,7 @@ Below are some Bug samples that I wrote from my experience.
 ___
 
 _Title:_ Invalid card number <br/>
-_Description:_ We should not be able to make an order with invalid card number <br/>
+_Description:_ We should not be able to make an order with an invalid card number <br/>
 _TestCaseId:_ TC2 <br/>
 _Status:_ OPEN <br/>
 _Raised By:_ Kinga <br/>
@@ -43,6 +43,8 @@ _Priority:_ 1 <br/>
 _Severity:_ 3  <br/>
 ![image](https://github.com/DeeKinga/Bug-Samples/assets/131695090/3614d454-2999-46c1-9603-b956dff39bc6)
 
+___
 
+_Title:_
 
 
