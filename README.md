@@ -45,6 +45,47 @@ _Severity:_ 3  <br/>
 
 ___
 
-_Title:_
+_Title:_ Back button <br/>
+_Description:_ After we purchased the product we shouldn’t be able to return to the page with the card details by pressing the back button <br/>
+_TestCaseId:_ TB1 <br/>
+_Status:_ OPEN <br/>
+_Raised By:_ Kinga <br/>
+_Application Version:_ - <br/>
+_Steps to Reproduce:_ <br/>
+1. Open https://demo.guru99.com/payment-gateway/purchasetoy.php
+2. choose: Quantity 9
+3. press Buy
+4. fill in all information for the card
+5. Press Buy
+6. press the back button
+
+_Expected Results:_ We should receive an error message <br/>
+_Actual Result:_ We can go back to the purchase page which contains the card details <br/>
+_Priority:_ 1 <br/>
+_Severity:_ 1 <br/>
+![image](https://github.com/DeeKinga/Bug-Samples/assets/131695090/5afc3996-beb4-436d-9d60-961f7b2c5303)
+
+___
+
+_Title:_ Quantity with a negative value <br/>
+_Description:_ We should not be able to complete an order with a quantity with a negative value. This value is modified in the code source to a negative value. <br/>
+_TestCaseId:_ MC3 <br/>
+_Status:_ OPEN <br/>
+_Raised By:_ Kinga <br/>
+_Application Version:_ - <br/>
+_Steps to Reproduce:_ <br/>
+1. Open https://demo.guru99.com/payment-gateway/purchasetoy.php
+2. Choose: Quantity -15
+3. Press Buy
+4. Fill in all information for the card
+5. Press Buy
+
+_Expected Results:_ We should receive an error message <br/>
+_Actual Result:_ We receive Payment successfully and an Order ID <br/>
+_Priority:_ 1 <br/>
+_Severity:_ 1 <br/>
+![image](https://github.com/DeeKinga/Bug-Samples/assets/131695090/37377c68-058c-4302-a85d-6dae67a3b888)
+![image](https://github.com/DeeKinga/Bug-Samples/assets/131695090/acfb891f-f93b-405f-9d34-c241398d5508)
+
 
 
