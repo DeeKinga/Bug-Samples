@@ -21,6 +21,7 @@ _Actual Result:_ We receive Payment successful and an Order ID <br/>
 _Priority:_ 1 <br/>
 _Severity:_ 1 <br/>
 _Files attached:_ <br/>
+
 ![image](https://github.com/DeeKinga/Bug-Samples/assets/131695090/65b10639-b229-4759-8ced-6c813acc2113)
 ![image](https://github.com/DeeKinga/Bug-Samples/assets/131695090/c0a1f8a5-42fc-4058-ba94-74ab63320ea6)
 
@@ -41,6 +42,7 @@ _Expected Results:_ Should be responsive in all devices shown in the developer t
 _Actual Result:_ The menu bar doesn’t appear in all the devices <br/>
 _Priority:_ 1 <br/>
 _Severity:_ 3  <br/>
+
 ![image](https://github.com/DeeKinga/Bug-Samples/assets/131695090/3614d454-2999-46c1-9603-b956dff39bc6)
 
 ___
@@ -63,6 +65,7 @@ _Expected Results:_ We should receive an error message <br/>
 _Actual Result:_ We can go back to the purchase page which contains the card details <br/>
 _Priority:_ 1 <br/>
 _Severity:_ 1 <br/>
+
 ![image](https://github.com/DeeKinga/Bug-Samples/assets/131695090/5afc3996-beb4-436d-9d60-961f7b2c5303)
 
 ___
@@ -84,6 +87,7 @@ _Expected Results:_ We should receive an error message <br/>
 _Actual Result:_ We receive Payment successfully and an Order ID <br/>
 _Priority:_ 1 <br/>
 _Severity:_ 1 <br/>
+
 ![image](https://github.com/DeeKinga/Bug-Samples/assets/131695090/37377c68-058c-4302-a85d-6dae67a3b888)
 ![image](https://github.com/DeeKinga/Bug-Samples/assets/131695090/acfb891f-f93b-405f-9d34-c241398d5508)
 
